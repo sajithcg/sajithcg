@@ -2,9 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajithmohammed&label=Profile%20views&color=0e75b6&style=flat" alt="sajithmohammed" /> </p>
 
-- 🔭 **I build clean, responsive, and scalable web applications using the MERN stack, with a strong focus on real-world use cases, maintainable code, and practical problem-solving.**
+- 💻 IT Support & System Administration enthusiast with hands-on practice in Windows Server, Active Directory, Networking, and Linux.
 
-- 👯 Open to collaborate on **meaningful MERN or frontend-heavy projects.**
+- 🌐 Learning Infrastructure, Cloud, Automation, and Monitoring to build a career in Site Reliability Engineering (SRE).
+
+- 🔧 Interested in troubleshooting, server administration, networking, and infrastructure automation.
 
 - 📫 Reach me at mail **sajithvaisul123@gmail.com**
 

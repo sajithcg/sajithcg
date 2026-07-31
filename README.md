@@ -1,6 +1,6 @@
-Sajith Mohammed V
+<h3 align="center">Sajith Mohammed V</h3>
 
-IT Support | System Administration | Networking | Aspiring SRE
+<h3 align="center">IT Support | System Administration | Networking | Aspiring SRE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajithmohammed&label=Profile%20views&color=0e75b6&style=flat" alt="sajithmohammed" /> </p>
 
@@ -25,16 +25,12 @@ IT Support | System Administration | Networking | Aspiring SRE
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/></a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
+<a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/github" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/></a>
@@ -42,4 +38,3 @@ IT Support | System Administration | Networking | Aspiring SRE
 
 <h3 align="left">Stats:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajithcg&" alt="sajithcg" /></p>
-

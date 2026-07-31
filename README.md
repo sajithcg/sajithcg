@@ -36,6 +36,18 @@
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png" alt="Microsoft Azure" title="Microsoft Azure"/></code>
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" title="Windows"/></code>
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code>
+
+<img width="42" style="background:#fff;padding:6px;border-radius:8px;margin:4px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" />
+<img width="42" style="background:#fff;padding:6px;border-radius:8px;margin:4px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" />
+<img width="42" style="background:#fff;padding:6px;border-radius:8px;margin:4px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="Bash" />
+<img width="42" style="background:#fff;padding:6px;border-radius:8px;margin:4px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" />
+<img width="42" style="background:#fff;padding:6px;border-radius:8px;margin:4px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" />
+<img width="42" style="background:#fff;padding:6px;border-radius:8px;margin:4px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" />
+<img width="42" style="background:#fff;padding:6px;border-radius:8px;margin:4px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" />
+<img width="42" style="background:#fff;padding:6px;border-radius:8px;margin:4px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png" alt="Kubernetes" />
+<img width="42" style="background:#fff;padding:6px;border-radius:8px;margin:4px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" />
+<img width="42" style="background:#fff;padding:6px;border-radius:8px;margin:4px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png" alt="Azure" />
+<img width="42" style="background:#fff;padding:6px;border-radius:8px;margin:4px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="VS Code" />
 </p>
 
 <h3 align="left">Stats:</h3>

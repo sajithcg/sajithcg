@@ -25,19 +25,18 @@
 
 <h3 align="left">Tools:</h3>
 <p align="left">
-	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code>
-	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" title="Windows"/></code>
-	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="Bash" title="Bash"/></code>
-	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
-	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
-	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
-	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code>
-	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png" alt="Kubernetes" title="Kubernetes"/></code>
-	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" title="AWS"/></code>
-	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png" alt="Microsoft Azure" title="Microsoft Azure"/></code>
-	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
-
   <a href="https://skillicons.dev/icons?i=linux,figma&theme=light"><img src="https://skillicons.dev/icons?i=linux" /></a>
+  <a href="https://skillicons.dev/icons?i=linux,figma&theme=light"><img src="https://skillicons.dev/icons?i=windows" /></a>
+  <a href="https://skillicons.dev/icons?i=linux,figma&theme=light"><img src="https://skillicons.dev/icons?i=powershell" /></a>
+  <a href="https://skillicons.dev/icons?i=linux,figma&theme=light"><img src="https://skillicons.dev/icons?i=bash" /></a>
+  <a href="https://skillicons.dev/icons?i=linux,figma&theme=light"><img src="https://skillicons.dev/icons?i=python" /></a>
+  <a href="https://skillicons.dev/icons?i=linux,figma&theme=light"><img src="https://skillicons.dev/icons?i=git" /></a>
+  <a href="https://skillicons.dev/icons?i=linux,figma&theme=light"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://skillicons.dev/icons?i=linux,figma&theme=light"><img src="https://skillicons.dev/icons?i=docker" /></a>
+  <a href="https://skillicons.dev/icons?i=linux,figma&theme=light"><img src="https://skillicons.dev/icons?i=kubernetes" /></a>
+  <a href="https://skillicons.dev/icons?i=linux,figma&theme=light"><img src="https://skillicons.dev/icons?i=aws" /></a>
+  <a href="https://skillicons.dev/icons?i=linux,figma&theme=light"><img src="https://skillicons.dev/icons?i=azure" /></a>
+  <a href="https://skillicons.dev/icons?i=linux,figma&theme=light"><img src="https://skillicons.dev/icons?i=vscode" /></a>
 </p>
 
 <h3 align="left">Stats:</h3>

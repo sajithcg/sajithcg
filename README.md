@@ -37,9 +37,7 @@
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png" alt="Microsoft Azure" title="Microsoft Azure"/></code>
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
 
-  <a href="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs" />
-  </a>
+  <a href="https://skillicons.dev/icons?i=linux,figma&theme=light"><img src="https://skillicons.dev/icons?i=linux" /></a>
 </p>
 
 <h3 align="left">Stats:</h3>

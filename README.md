@@ -1,3 +1,7 @@
+Sajith Mohammed V
+
+IT Support | System Administration | Networking | Aspiring SRE
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajithmohammed&label=Profile%20views&color=0e75b6&style=flat" alt="sajithmohammed" /> </p>
 
 - 💻 IT Support & System Administration enthusiast with hands-on practice in Windows Server, Active Directory, Networking, and Linux.

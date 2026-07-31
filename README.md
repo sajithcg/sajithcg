@@ -38,9 +38,7 @@
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
 
 [(https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
-<a href="https://skillicons.dev">
-	<img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-</a>
+
 </p>
 
 <h3 align="left">Stats:</h3>

@@ -1,4 +1,4 @@
-<h3 align="center">Sajith Mohammed V</h3>
+<h1 align="center">Sajith Mohammed V</h1>
 
 <h3 align="center">IT Support | System Administration | Networking | Aspiring SRE</h3>
 
